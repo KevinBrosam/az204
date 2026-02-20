@@ -1,0 +1,7 @@
+C:\Users\Kevin\Documents\Repository\SampleApplication1\bin\Release\net8.0\publish\SampleApplication1.exe
+C:\Users\Kevin\Documents\Repository\SampleApplication1\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Kevin\Documents\Repository\SampleApplication1\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Kevin\Documents\Repository\SampleApplication1\bin\Release\net8.0\publish\SampleApplication1.dll
+C:\Users\Kevin\Documents\Repository\SampleApplication1\bin\Release\net8.0\publish\SampleApplication1.deps.json
+C:\Users\Kevin\Documents\Repository\SampleApplication1\bin\Release\net8.0\publish\SampleApplication1.runtimeconfig.json
+C:\Users\Kevin\Documents\Repository\SampleApplication1\bin\Release\net8.0\publish\SampleApplication1.pdb

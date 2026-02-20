@@ -1,0 +1,7 @@
+C:\Users\Kevin\Documents\Repository\SampleApplication1\bin\Publish\SampleApplication1.exe
+C:\Users\Kevin\Documents\Repository\SampleApplication1\bin\Publish\appsettings.Development.json
+C:\Users\Kevin\Documents\Repository\SampleApplication1\bin\Publish\appsettings.json
+C:\Users\Kevin\Documents\Repository\SampleApplication1\bin\Publish\SampleApplication1.dll
+C:\Users\Kevin\Documents\Repository\SampleApplication1\bin\Publish\SampleApplication1.deps.json
+C:\Users\Kevin\Documents\Repository\SampleApplication1\bin\Publish\SampleApplication1.runtimeconfig.json
+C:\Users\Kevin\Documents\Repository\SampleApplication1\bin\Publish\SampleApplication1.pdb
